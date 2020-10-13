@@ -5,3 +5,8 @@ This app estimates the probabilistic beta of an action belonging to the Standard
 
 
 ![Appl Linear Regression](https://github.com/tiagogiraldo/Probabilistic_regresion_Stocks_SP500_TFP_Streamlit_API/blob/main/appl_lr_5y_w.png)
+
+
+
+
+[![Binder](https://mybinder.org/v2/gh/tiagogiraldo/Probabilistic_regresion_Stocks_SP500_TFP_Streamlit_API/master?urlpath=proxy/F8501/)
