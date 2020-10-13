@@ -2,7 +2,7 @@
 #jupyter serverextension enable --sys-prefix nbserverproxy
 
 # streamlit launches at startup
-mv .binder/risk_premium_sp500_app.py ${NB_PYTHON_PREFIX}/lib/python*/site-packages/
+mv .binder/streamlit_call.py ${NB_PYTHON_PREFIX}/lib/python*/site-packages/
 
 # enable streamlit extension
 jupyter serverextension enable --sys-prefix streamlit_call
