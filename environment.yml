@@ -1,0 +1,21 @@
+name: dl
+channels:
+  - conda
+  - conda-forge
+dependencies:
+  - python=3.7.9
+  - pip
+  - jupyter-server-proxy
+  - pandas
+  - numpy
+  - numpy
+  - datetime
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - pip:
+    - streamlit==0.66.0          
+    - tensorflow
+    - tensorflow_probability
+    - yfinance
+    - bokeh
