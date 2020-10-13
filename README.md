@@ -9,4 +9,5 @@ This app estimates the probabilistic beta of an action belonging to the Standard
 
 
 
-[![Binder](https://mybinder.org/v2/gh/tiagogiraldo/Probabilistic_regresion_Stocks_SP500_TFP_Streamlit_API/master?urlpath=proxy/F8501/)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tiagogiraldo/Probabilistic_regresion_Stocks_SP500_TFP_Streamlit_API/master?urlpath=proxy/8501/)
