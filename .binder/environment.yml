@@ -9,13 +9,13 @@ dependencies:
   - pandas
   - numpy
   - numpy
-  - datetime
   - statsmodels
   - matplotlib
-  - seaborn
   - pip:
     - streamlit==0.66.0          
     - tensorflow
     - tensorflow_probability
     - yfinance
     - bokeh
+    - datetime
+    - seaborn
